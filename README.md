@@ -31,3 +31,8 @@ Cap3:
 ![Captura desde 2024-03-15 02-11-04](https://github.com/Internship-ciancoders-24-1/curso-de-js-esencial-Abigail-Alvarado/assets/74523252/95c78497-eae7-4888-923e-6796bbf0e63a)
 ![Captura desde 2024-03-15 02-14-21](https://github.com/Internship-ciancoders-24-1/curso-de-js-esencial-Abigail-Alvarado/assets/74523252/12a29de2-2366-4a59-9257-c5da6d191cc3)
 ![Captura desde 2024-03-15 02-14-29](https://github.com/Internship-ciancoders-24-1/curso-de-js-esencial-Abigail-Alvarado/assets/74523252/f5086d65-fa08-4281-9517-fbc015c776f3)
+
+cap 4:
+![Captura desde 2024-03-15 11-21-49](https://github.com/Internship-ciancoders-24-1/curso-de-js-esencial-Abigail-Alvarado/assets/74523252/9b2608c9-8d07-4d97-ac60-82d9e9db6206)
+![Captura desde 2024-03-15 11-23-04](https://github.com/Internship-ciancoders-24-1/curso-de-js-esencial-Abigail-Alvarado/assets/74523252/1715d53d-cedb-4d24-80f1-58c1b16ac7fe)
+
