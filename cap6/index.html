@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script >
+        console.log('a')
+        setTimeout(() => console.log('b'), 0) // se ejecuta en el siguiente ciclo del event loop, no inmediatamente, es decir, después de que el código actual haya terminado de ejecutarse
+        console.log('c')
+        
+    </script>
+</body>
+</html>
